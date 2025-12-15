@@ -64,4 +64,28 @@ Gemini answer is somewhat usefull but dismisses the question and tryies to keep 
   
 DeepSeek took double the time to answer while not providing a more usefull answer, also keeping the philosophical segment abstract.
 
+#### Test 3. Complete the missing bash function from 1047 lines bash code. (no thinking)
 
+[Test Details: Prompt + outputs + evaluation of output](https://github.com/StringManolo/UnbiasedAIBenchmark/blob/main/tests/test3.md)
+
+| Model | Overall |
+| :--- | :--- | 
+| GPT-5.2 Instant | 77.5 | 
+| Gemini 3.0 Flash | 67.75 | 
+| DeepSeek 3.2 | 78.75 | 
+| Sonnet 4.5 | 92 | 
+| Kimi K2 | 80.75 | 
+
+###### Summary: 
+Sonnet did an amazing job. Properly usage of colors, all info needed for the user to use the client. Color choice maybe no the pretiest, but good overall.  
+  
+Kimi did a solid job. UI presentation needs polishing (ugly and to cluttered). But all needed info is there. Kimi took very long to answer. 
+  
+DeepSeek did include all the info required for a user to use the client without prior knowledge of the software. Did not use colors properly to help the user digest the UI at first glance. In other words, ugly but works perfectly.
+  
+ChatGPT did a clean client. Simple, well organized and smart use of colors. Pretty design. But mandatory info for the user is missing. 
+  
+Gemini Flash did had multiple sintax errors that I had to manually fix. The UI has lot of info but misses the arguments needed for the user to know how the to use the client.
+
+
+<!-- ### General conclusions -->
