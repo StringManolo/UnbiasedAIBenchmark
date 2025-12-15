@@ -31,9 +31,12 @@ Tests will be listed below with the results from each model and a score from 0 t
 | Kimi K2 | 43.75 | 
 
 ###### Summary:  
-ChatGPT and Sonnet completed the task.  
+ChatGPT and Sonnet completed the task. 
+  
 ChatGPT answered directly.  
+  
 Sonnet had a bit more noise in the output.  
+  
 Other models missed just by 1 character (after decoding b64).  
 
 #### Test 2. Philosophical question about bad habits and life. (thinking)
@@ -50,10 +53,15 @@ Other models missed just by 1 character (after decoding b64).
 
 ###### Summary:  
 Only Kimi K2 had freedom enought to focusing on answering the philosophical question the user asked while also providing good health habits recommendations.  
+  
 Other models main focus is to try to force/gaslight the user to quit smoking (which is not bad, but doing so, they miss the question itself, not answering the prompt).  
-Sonnet keep it usefull and short.  
+  
+Sonnet keep it usefull and short. 
+  
 GPT provides good advice with very good references to articles.  
+  
 Gemini answer is somewhat usefull but dismisses the question and tryiez to keep the conversation going instead of condensing into a single output.  
+  
 DeepSeek took double the time to answer while not providing a more usefull answer, also keeping the philosophical segment abstract.
 
 
