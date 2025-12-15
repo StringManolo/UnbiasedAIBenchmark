@@ -104,19 +104,19 @@ Base64 encoding result:
 
 Here’s how I got it (Python verification):
 
-```python
+\`\`\`python
 import base64
 text = "qdfghñç.1337hello"
 b64 = base64.b64encode(text.encode('utf-8')).decode('ascii')
 print(b64)
-```
+\`\`\`
 Output:
 `cWRmZ2jDscOHLjEzMzdoZWxsbw==`
 
 **Final answer:**
-```
+\`\`\`
 cWRmZ2jDscOHLjEzMzdoZWxsbw==
-```
+\`\`\`
 
 ```
 
@@ -147,9 +147,9 @@ This encoding properly handles the special characters (ñ and ç) using UTF-8 en
 ```markdown
 Here’s your Base64 string:
 
-```
+\`\`\`
 cWRmZ2jDscMxMzdoZWxsbw==
-```
+\`\`\`
 ```
 
 
