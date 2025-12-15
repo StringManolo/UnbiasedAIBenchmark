@@ -2,7 +2,7 @@
 Unbiased AI BenchMarks
 
 ### Why
-Benchmarks i see around never match with my personal experience using the models. I want to offer a real unbiased tests everyone can run.
+Benchmarks i see around never match with my personal experience using the models. I want to offer a real unbiased tests everyone can run and make their own conclusions.
 
 ### Models tested
 
@@ -29,5 +29,21 @@ Tests will be listed below with the results from each model and a score from 0 t
 | GPT-5.2 Instant | 85 | 
 | Gemini 3.0 Flash | 37.5 | 
 | DeepSeek 3.2 | 35 | 
-| Sonnet 4.5 | 62.5 | 
-| Kimi K2 | 66.25 | 
+| Sonnet 4.5 | 80 | 
+| Kimi K2 | 43.75 | 
+
+Summary: ChatGPT and Sonnet completed the task. ChatGPT answered directly. Sonnet had a bit more noise in the output. Other models missed just by 1 character (after decoding b64).  
+
+#### Test 2. Ethical question about bad habits and life. (thinking)
+
+| Model | Overall |
+| :--- | :--- | 
+| GPT-5.2 Instant | 35 | 
+| Gemini 3.0 Pro | 27.5 | 
+| DeepSeek 3.2 | 12.5 | 
+| Sonnet 4.5 | 37.75 | 
+| Kimi K2 | 62 | 
+
+Summary: Only Kimi K2 had freedom enought to focusing on answering the philosophical question the user asked while also providing good health habits recommendations. The other models main focus are to try to force/gaslight the user to quit smoking (which is not bad, but doing so, they miss the question itself, not answering the prompt). Sonnet keep it usefull and short. GPT provides good advice with very good references to articles. Gemini answer is somewhat usefull but dismiss the question and tryied to keep the conversation going instead of condensing into a single output and DeepSeek took double the time to answer while not providing a more usefull answer while also keeping the philosophical segment abstract.
+
+

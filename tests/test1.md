@@ -115,11 +115,11 @@ cWRmZ2jDscOnLjEzMzdoZWxsbw==
 This encoding properly handles the special characters (ñ and ç) using UTF-8 encoding before converting to base64.
 ```
 
-- Evaluation: 62.5 / 100
+- Evaluation: 80 / 100
   - Task: 100
   - Time: 60 (12.58 Seconds)
   - Output noise: 70
-  - Output usefull non requested info: 20
+  - Output usefull non requested info: 70
 
 ##### Kimi K2
 - Result:
@@ -132,11 +132,9 @@ cWRmZ2jDscMxMzdoZWxsbw==
 ```
 
 
-- Evaluation: 66.25 / 100
+- Evaluation: 43.75 / 100
   - Task: 10
   - Time: 70 (05.07 Seconds)
   - Output noise: 95
   - Output usefull non requested info: 0
-
-
 
