@@ -66,7 +66,7 @@ DeepSeek took double the time to answer while not providing a more usefull answe
 
 #### Test 3. Complete the missing bash function from 1047 lines bash code. (no thinking)
 
-[Test Details: Prompt + outputs + evaluation of output](https://github.com/StringManolo/UnbiasedAIBenchmark/blob/main/tests/test3.md)
+[Test Details: Prompt + outputs + Screenshoots of generated UI + evaluation of output](https://github.com/StringManolo/UnbiasedAIBenchmark/blob/main/tests/test3.md)
 
 | Model | Overall |
 | :--- | :--- | 
