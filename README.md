@@ -36,6 +36,8 @@ Summary: ChatGPT and Sonnet completed the task. ChatGPT answered directly. Sonne
 
 #### Test 2. Ethical question about bad habits and life. (thinking)
 
+[Test Details: Prompt + outpus + evaluation of output](https://github.com/StringManolo/UnbiasedAIBenchmark/blob/main/tests/test2.md)
+
 | Model | Overall |
 | :--- | :--- | 
 | GPT-5.2 Instant | 35 | 
