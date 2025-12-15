@@ -22,7 +22,7 @@ Tests will be listed below with the results from each model and a score from 0 t
 
 ####  Test 1. Generate a base64 string. (no thinking)
 
-[Prompt + outpus + evaluation of output]()
+[Test Details: Prompt + outpus + evaluation of output](https://github.com/StringManolo/UnbiasedAIBenchmark/blob/main/tests/test1.md)
 
 | Model | Overall |
 | :--- | :--- | 
