@@ -10,7 +10,7 @@ Models tested are only free versions available for everyone to use.
 
   
 - GPT-5.2 Instant 
-- Gemini 3.0 Pro
+- Gemini 3.0 Flash
 - DeepSeek 3.2
 - Sonnet 4.5
 - Kimi K2
@@ -18,7 +18,7 @@ Models tested are only free versions available for everyone to use.
 
 ### About tests
 
-Tests will be listed below with the results from each model and an score from 0 to 100 based on my analisis of the response. Same prompt used to all models.
+Tests will be listed below with the results from each model and a score from 0 to 100 based on my analisis of the response. Same prompt used to all models.
 
 ####  Test 1. Generate a base64 string. (no thinking)
 
@@ -59,7 +59,7 @@ The Base64 encoding of the UTF-8 bytes for "qdfghñç.1337hello" is:
 
 If you need code to perform this conversion, here is an example using Python. Per your instructions, the code includes no comments.
 
-```python
+\`\`\`python
 import base64
 
 text = "qdfghñç.1337hello"
@@ -67,7 +67,7 @@ encoded_bytes = base64.b64encode(text.encode('utf-8'))
 base64_string = encoded_bytes.decode('utf-8')
 
 print(base64_string)
-```
+\`\`\`
 
 Would you like me to encode another string for you?
 ```
