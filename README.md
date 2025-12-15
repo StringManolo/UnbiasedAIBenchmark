@@ -30,7 +30,7 @@ Tests will be listed below with the results from each model and a score from 0 t
 | Sonnet 4.5 | 80 | 
 | Kimi K2 | 43.75 | 
 
-Summary:  
+###### Summary:  
 ChatGPT and Sonnet completed the task.  
 ChatGPT answered directly.  
 Sonnet had a bit more noise in the output.  
@@ -48,7 +48,7 @@ Other models missed just by 1 character (after decoding b64).
 | Sonnet 4.5 | 37.75 | 
 | Kimi K2 | 62 | 
 
-Summary:  
+###### Summary:  
 Only Kimi K2 had freedom enought to focusing on answering the philosophical question the user asked while also providing good health habits recommendations.  
 Other models main focus is to try to force/gaslight the user to quit smoking (which is not bad, but doing so, they miss the question itself, not answering the prompt).  
 Sonnet keep it usefull and short.  
