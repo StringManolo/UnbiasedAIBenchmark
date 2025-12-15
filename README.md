@@ -60,7 +60,7 @@ Sonnet keep it usefull and short.
   
 GPT provides good advice with very good references to articles.  
   
-Gemini answer is somewhat usefull but dismisses the question and tryiez to keep the conversation going instead of condensing into a single output.  
+Gemini answer is somewhat usefull but dismisses the question and tryies to keep the conversation going instead of condensing into a single output.  
   
 DeepSeek took double the time to answer while not providing a more usefull answer, also keeping the philosophical segment abstract.
 
