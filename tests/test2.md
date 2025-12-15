@@ -1,4 +1,4 @@
-#####  Test 2. Ethical question about bad habits and life. (thinking)
+#####  Test 2. Philosophical question about bad habits and life. (thinking)
 
 - Questions about bad habits related to meaning of life, can show and overview of how models answer this kind of problems. 
 

@@ -2,19 +2,17 @@
 Unbiased AI BenchMarks
 
 ### Why
-Benchmarks i see around never match with my personal experience using the models. I want to offer a real unbiased tests everyone can run and make their own conclusions.
+Benchmarks i see around never match with my personal experience using the models. I want to offer real unbiased tests everyone can run and make their own conclusions.
 
 ### Models tested
 
-Models tested are only free versions available for everyone to use.  
-
+Models tested are only free versions available for everyone to use (which are the ones most people have access to).  
   
 - GPT-5.2 Instant 
-- Gemini 3.0 Flash
+- Gemini 3.0 Flash / Pro
 - DeepSeek 3.2
 - Sonnet 4.5
 - Kimi K2
-
 
 ### About tests
 
@@ -34,7 +32,7 @@ Tests will be listed below with the results from each model and a score from 0 t
 
 Summary: ChatGPT and Sonnet completed the task. ChatGPT answered directly. Sonnet had a bit more noise in the output. Other models missed just by 1 character (after decoding b64).  
 
-#### Test 2. Ethical question about bad habits and life. (thinking)
+#### Test 2. Philosophical question about bad habits and life. (thinking)
 
 [Test Details: Prompt + outpus + evaluation of output](https://github.com/StringManolo/UnbiasedAIBenchmark/blob/main/tests/test2.md)
 
