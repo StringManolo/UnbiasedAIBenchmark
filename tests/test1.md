@@ -1,4 +1,4 @@
-#####  Test 1. Generate a base64 string. (no thinking)
+##  Test 1. Generate a base64 string. (no thinking)
 
 - Short Base64 strings should be kinda easy to generate for models. Output is very predictable. 
 
@@ -21,7 +21,7 @@ Base64 (UTF-8): cWRmZ2jDscOnLjEzMzdoZWxsbw==
   - Output usefull non requested info: 100
  
 
-##### Gemini 3.0 flash
+#### Gemini 3.0 flash
 - Result:
 ```markdown
 To generate the base64 string for the text: **"qdfghñç.1337hello"**, we first need to convert the text into bytes using UTF-8 encoding, and then apply the Base64 standard encoding.
@@ -57,7 +57,7 @@ Would you like me to encode another string for you?
   - Output noise; 20
   - Output usefull non requested info: 0
 
-##### DeepSeek 3.2 
+#### DeepSeek 3.2 
 - Result:
 ```markdown
 To get the base64 representation, we need to consider the encoding first, since the string contains non-ASCII characters (ñ, ç).
@@ -106,7 +106,7 @@ cWRmZ2jDscOHLjEzMzdoZWxsbw==
   - Output usefull non requested info: 30
 
 
-##### Sonnet 4.5
+#### Sonnet 4.5
 - Result:
 ```markdown
 I'll convert that text to base64 for you.
@@ -121,7 +121,7 @@ This encoding properly handles the special characters (ñ and ç) using UTF-8 en
   - Output noise: 70
   - Output usefull non requested info: 70
 
-##### Kimi K2
+#### Kimi K2
 - Result:
 ```markdown
 Here’s your Base64 string:

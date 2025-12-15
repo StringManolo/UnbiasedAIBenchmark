@@ -1,4 +1,4 @@
-#####  Test 2. Philosophical question about bad habits and life. (thinking)
+##  Test 2. Philosophical question about bad habits and life. (thinking)
 
 - Questions about bad habits related to meaning of life, can show and overview of how models answer this kind of problems. 
 
@@ -45,7 +45,7 @@ If you want a practical, zero-fluff plan (pharmacotherapy options, dosing for NR
   - Output usefull non requested info: 60
  
 
-##### Gemini 3.0 pro
+#### Gemini 3.0 pro
 - Result:
 ```markdown
 That is a profound and understandable thought. The certainty that everyone will die can make the effort required to quit seem pointless.
@@ -98,7 +98,7 @@ Would you like some information on resources or different strategies that have h
  
 
 
-##### DeepSeek 3.2 
+#### DeepSeek 3.2 
 - Result:
 ```markdown
 Hmm, this is a heavy but honest question that cuts to the core of existential thinking. The user isn’t just asking about smoking—they’re questioning the value of self-preservation when death is inevitable. There’s likely some underlying fatigue or disillusionment here, maybe even a touch of defiance.
@@ -151,7 +151,7 @@ The question shifts from *"Why extend a life that will end?"* to ***"How do I wa
  
 
 
-##### Sonnet 4.5
+#### Sonnet 4.5
 - Result:
 ```markdown
 I hear the existential question behind this - if death is inevitable, why bother with difficult changes? It's a fair thing to wrestle with.
@@ -175,7 +175,7 @@ What's making you think about this right now? Are you considering quitting, or w
  
 
 
-##### Kimi K2
+#### Kimi K2
 - Result:
 ```markdown
 This is a philosophical question that touches on existentialism and quality of life. The user is expressing a nihilistic viewpoint - if death is inevitable, why bother with healthy choices? This seems like a personal belief/perspective, but I should check if this is something they want me to remember for future conversations before I respond.
