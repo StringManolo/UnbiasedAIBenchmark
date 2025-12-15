@@ -66,7 +66,9 @@ builtin exit
 }
 ```
 
-File sent to models is available here [clientFreeDNS.sh]()
+![Original UI](https://raw.githubusercontent.com/StringManolo/UnbiasedAIBenchmark/refs/heads/main/assets/images/OriginalBash.jpg)
+
+File sent to models is available here [clientFreeDNS.sh](https://github.com/StringManolo/UnbiasedAIBenchmark/blob/main/assets/clientFreeDNS.sh)
 
 #### ChatGPT-5.2 Instant
 - Result:
@@ -120,7 +122,9 @@ showUsage() {
 }
 
 ```
-  
+
+![ChatGPT UI](https://raw.githubusercontent.com/StringManolo/UnbiasedAIBenchmark/refs/heads/main/assets/images/ChatGPTBash.jpg)
+
 
 - Evaluation: 77.5 / 100
   - Task:  30 
@@ -188,6 +192,9 @@ showUsage() {
   echo ""
 }
 ```
+
+![Gemini UI](https://raw.githubusercontent.com/StringManolo/UnbiasedAIBenchmark/refs/heads/main/assets/images/GeminiFlash.jpg)
+
 
 - Evaluation: 67.75 / 100
   - Task:  10
@@ -284,6 +291,8 @@ showUsage() {
 }
 ```
 
+![DeepSeek UI](https://raw.githubusercontent.com/StringManolo/UnbiasedAIBenchmark/refs/heads/main/assets/images/DeepSeekBash.jpg)
+
 - Evaluation: 78.75 / 100
   - Task:  70 
   - Time: 60 (44.58 Seconds)
@@ -370,6 +379,8 @@ showUsage() {
 }
 ```
 
+![Sonnet UI](https://raw.githubusercontent.com/StringManolo/UnbiasedAIBenchmark/refs/heads/main/assets/images/SonnetBash.jpg)
+
 - Evaluation: 92 / 100
   - Task: 98 
   - Time: 70 (27.92 Seconds)
@@ -440,6 +451,8 @@ showUsage() {
   exit 0
 }
 ```
+
+![Kimi UI](https://raw.githubusercontent.com/StringManolo/UnbiasedAIBenchmark/refs/heads/main/assets/images/KimiBash.jpg)
 
 - Evaluation: 80.75 / 100
   - Task: 93 
